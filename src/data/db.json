@@ -1,0 +1,134 @@
+
+{
+  
+    "locations": [
+        
+
+    {
+        "id": 0,
+        "photo": "/imagenes/rem-vestir.png",
+        "name": "Remera de algodon",
+         "price": "10000",
+         "availableUnits": "25",
+        "prenda": "Remera",
+        "entrenamiento": false,
+        "partido": true
+       
+    },
+    {
+        "id": 1,
+        "photo": "/imagenes/alternativa.png",
+        "name": "Remera Alternativa",
+        
+        "availableUnits": "15",
+        "price": "10000",
+        "prenda": "Remera",
+        "entrenamiento": false,
+        "partido": true
+    },
+    {
+       
+        "id": 2,
+        "photo": "/imagenes/campera.png",
+        "name": "Campera Reversible ",
+         "price": "104000",
+        "availableUnits": "20",
+        "prenda": "Campera",
+        "entrenamiento": false,
+        "partido": true 
+    },
+    {
+        "id": 3,
+        "photo": "/imagenes/titular.png",
+        "name": "Camiseta Titular Autentica ",
+         "price": "106000",
+        "prenda": "Remera",
+        "availableUnits": "20",
+        "entrenamiento": false,
+        "partido": true
+    },
+    {
+        "id": 5,
+        "photo": "/imagenes/short-negro.png",
+        "name": "Camiseta  Seleccion Argentina ",
+        "price": " 106000",
+        "availableUnits": "20",
+        "prenda": "Pantalones",
+        "entrenamiento": false,
+        "partido": true
+    },
+    {
+        "id": 6,
+        "photo": "/imagenes/short-blanco.png",
+        "name": " Adidas  Autentica Seleccion  2024",
+        "price": " 106000",
+        "prenda": "Pantalones",
+        "availableUnits": "20",
+        "entrenamiento": false,
+        "partido": true
+    },
+    {
+            
+        "id": 7,
+        "photo": "/imagenes/cam-tit-niños.png",
+        "name": "Camiseta titular de niño ",
+        "prenda": "Remera",
+         "price": "106000",
+        "entrenamiento": false,
+        "partido": true
+    },
+     {
+        
+            "id": 8,
+            "photo": "/imagenes/short-azul.png",
+            "name": "Camiseta Seleccion Argentina ",
+             "price": " 106000",
+            "prenda": "Pantalones",
+            "availableUnits": "20",
+            "entrenamiento": false,
+            "partido": true
+        },
+        {
+            
+            "id": 9,
+            "photo": "/imagenes/medias-azules.png",
+            "name": " Autentica Seleccion Argentina ",
+             "price": "106000",
+            "prenda": "Medias",
+            "entrenamiento": false,
+            "partido": true
+        
+        },
+        {
+            
+            "id": 10,
+            "photo": "/imagenes/buzo-arq.png",
+            "name": "Buzo arquero Icon ",
+             "price": "106000",
+            "prenda": "Buzo",
+            "entrenamiento": false,
+            "partido": true
+        },
+        {
+            
+            "id": 11,
+            "photo": "/imagenes/buzo-entrenamiento.png",
+            "name": "Buzo de entrenamiento ",
+             "price": "106000",
+            "prenda": "Buzo",
+            "entrenamiento": false,
+            "partido": true
+        },
+        {
+            
+            "id": 12,
+            "photo": "/imagenes/cam-entrenamiento.png",
+            "name": "Camiseta Calentamiento 3 Estrellas ",
+            "price": "106000",
+            "prenda": "Remera",
+            "entrenamiento": false,
+            "partido": true
+        }
+     
+    ]
+}

@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: rgb(240, 240, 240);
+    padding: 5rem;
+    background-color: rgb(9, 9, 63);
+}
+.container{
+    margin-top: 1rem;
+    padding: 5rem;
+    background-color: rgb(9, 9, 63);
+}
+img{
+    width: 100%;
+    margin-top: 1rem;
+}
+button{
+    display: flex;
+    font-size: x-large;
+    margin: 0 auto;
+    color: rgb(38, 38, 146);
+padding: 1rem;
+border-color: rgb(240, 240, 240);
+    border-radius: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
